@@ -55,3 +55,13 @@ The project uses:
 ## License
 
 MIT 
+
+--- 
+
+# Credits
+
+This project is based in the repository [real-earth-3d-model](https://github.com/meunomeebero/real-earth-3d-model) by [Bero](https://github.com/meunomeebero).
+
+Original work © meunomeebero.  
+Modifications © jesse-barbosa, 2025.  
+Licensed under the MIT.
